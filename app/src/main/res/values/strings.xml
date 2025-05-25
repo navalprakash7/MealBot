@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MealBot</string>
+
+    <string name="product1_description">A burger is a sandwich with a cooked patty in a bun, often topped with cheese, lettuce, tomato, and sauces.</string>
+    <string name="product1_ingredients">1: Tomato\n2: Potato\n3: Cheese</string>
+
+    <string name="product2_description">Delicious pepperoni pizza topped with mozzarella cheese and fresh basil.</string>
+    <string name="product2_ingredients">1: Dough\n2: Tomato Sauce\n3: Pepperoni\n4: Mozzarella Cheese</string>
+
+    <string name="product3_description">Fresh sandwich made with bread, vegetables, and choice of fillings.</string>
+    <string name="product3_ingredients">1: Bread\n2: Lettuce\n3: Tomato\n4: Cheese</string>
+
+    <string name="product4_description">Steamed white rice, a staple in many cuisines.</string>
+    <string name="product4_ingredients">1: Rice\n2: Water\n3: Salt</string>
+
+    <string name="product5_description">Spaghetti pasta served with a rich meat and tomato sauce.</string>
+    <string name="product5_ingredients">1: Spaghetti\n2: Ground Beef\n3: Tomato Sauce\n4: Parmesan Cheese</string>
+
+    <string name="product6_description">Classic French fries, crispy on the outside and soft inside.</string>
+    <string name="product6_ingredients">1: Potatoes\n2: Salt\n3: Vegetable Oil</string>
+
+    <string name="product7_description">Stir-fried noodles with vegetables and soy sauce.</string>
+    <string name="product7_ingredients">1: Noodles\n2: Bell Peppers\n3: Soy Sauce\n4: Carrots</string>
+
+    <string name="product8_description">Fresh Caesar salad with crisp romaine lettuce and creamy dressing.</string>
+    <string name="product8_ingredients">1: Romaine Lettuce\n2: Caesar Dressing\n3: Croutons\n4: Parmesan Cheese</string>
+
+    <string name="product9_description">Wrap filled with grilled chicken, veggies, and sauces.</string>
+    <string name="product9_ingredients">1: Tortilla\n2: Chicken\n3: Lettuce\n4: Tomato\n5: Sauce</string>
+
+    <string name="product10_description">Juicy steak grilled to perfection, served with sides.</string>
+    <string name="product10_ingredients">1: Beef Steak\n2: Salt\n3: Pepper\n4: Garlic Butter</string>
+
+    <string name="product11_description">Crispy fish tacos with tangy lime sauce and fresh slaw.</string>
+    <string name="product11_ingredients">1: Fish Fillets\n2: Tortillas\n3: Cabbage\n4: Lime Sauce</string>
+
+    <string name="product12_description">Creamy mushroom soup garnished with parsley.</string>
+    <string name="product12_ingredients">1: Mushrooms\n2: Cream\n3: Onion\n4: Garlic\n5: Parsley</string>
+
+    <string name="product13_description">Spiced kebabs grilled to juicy perfection.</string>
+    <string name="product13_ingredients">1: Ground Meat\n2: Spices\n3: Onions\n4: Garlic</string>
+
+    <string name="product14_description">Crispy dosa served with chutneys and sambar.</string>
+    <string name="product14_ingredients">1: Rice\n2: Urad Dal\n3: Salt\n4: Oil</string>
+
+    <string name="product15_description">Hearty curry cooked with aromatic spices.</string>
+    <string name="product15_ingredients">1: Chicken or Veggies\n2: Curry Spices\n3: Onion\n4: Tomato\n5: Garlic</string>
+
+    <string name="product16_description">Paneer cooked in a rich gravy with spices.</string>
+    <string name="product16_ingredients">1: Paneer\n2: Tomatoes\n3: Cream\n4: Spices</string>
+
+    <string name="product17_description">Flavorful biryani with layers of spiced rice and meat.</string>
+    <string name="product17_ingredients">1: Basmati Rice\n2: Meat\n3: Spices\n4: Yogurt\n5: Herbs</string>
+
+    <string name="product18_description">Steamed momos served with spicy chili sauce.</string>
+    <string name="product18_ingredients">1: Flour\n2: Minced Meat or Veggies\n3: Garlic\n4: Ginger\n5: Soy Sauce</string>
+
+    <string name="product19_description">Classic hotdog with sausage and toppings in a bun.</string>
+    <string name="product19_ingredients">1: Sausage\n2: Hotdog Bun\n3: Mustard\n4: Ketchup\n5: Onions</string>
+
+    <string name="product20_description">Fresh sushi rolls with salmon, avocado, and cucumber.</string>
+    <string name="product20_ingredients">1: Sushi Rice\n2: Salmon\n3: Avocado\n4: Cucumber</string>
+</resources>
