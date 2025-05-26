@@ -19,6 +19,8 @@ Currently adding a **payment feature** 💳
 
 ---
 
-## Preview Video
+## 🎥 Preview Video
 
-<!-- Add your preview video here -->
+[![Watch Preview](https://img.youtube.com/vi/jHm7w0H8khk/0.jpg)](https://www.youtube.com/shorts/jHm7w0H8khk)
+
+---
