@@ -19,6 +19,12 @@ Currently adding a **payment feature** 💳
 
 ---
 
+## 📦 Download Apk
+
+[🔗 Download MealBot v1.0](https://github.com/navalprakash7/MealBot/releases/download/v1.0/mealbot.apk)
+
+---
+
 ## 🎥 Preview Video
 
 [![Watch Preview](https://img.youtube.com/vi/jHm7w0H8khk/0.jpg)](https://www.youtube.com/shorts/jHm7w0H8khk)
